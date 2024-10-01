@@ -1,0 +1,4882 @@
+{
+    "1": {
+        "text": "a person",
+        "adjective": "None",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "2": {
+        "text": "a beautiful person",
+        "adjective": "beautiful",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "3": {
+        "text": "an emotional person",
+        "adjective": "emotional",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "4": {
+        "text": "an elegant person",
+        "adjective": "elegant",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "5": {
+        "text": "a handsome person",
+        "adjective": "handsome",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "6": {
+        "text": "a strong person",
+        "adjective": "strong",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "7": {
+        "text": "a lazy person",
+        "adjective": "lazy",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "8": {
+        "text": "an incompetent person",
+        "adjective": "incompetent",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "9": {
+        "text": "an intelligent person",
+        "adjective": "intelligent",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "10": {
+        "text": "an honest person",
+        "adjective": "honest",
+        "occupation": "person",
+        "stereotype_noun": "None",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "11": {
+        "text": "a kindergarten teacher",
+        "adjective": "None",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "12": {
+        "text": "a beautiful kindergarten teacher",
+        "adjective": "beautiful",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "13": {
+        "text": "an emotional kindergarten teacher",
+        "adjective": "emotional",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "14": {
+        "text": "an elegant kindergarten teacher",
+        "adjective": "elegant",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "15": {
+        "text": "a handsome kindergarten teacher",
+        "adjective": "handsome",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "16": {
+        "text": "a strong kindergarten teacher",
+        "adjective": "strong",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "17": {
+        "text": "a lazy kindergarten teacher",
+        "adjective": "lazy",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "18": {
+        "text": "an incompetent kindergarten teacher",
+        "adjective": "incompetent",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "19": {
+        "text": "an intelligent kindergarten teacher",
+        "adjective": "intelligent",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "20": {
+        "text": "an honest kindergarten teacher",
+        "adjective": "honest",
+        "occupation": "kindergarten teacher",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "21": {
+        "text": "a dental hygienist",
+        "adjective": "None",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "22": {
+        "text": "a beautiful dental hygienist",
+        "adjective": "beautiful",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "23": {
+        "text": "an emotional dental hygienist",
+        "adjective": "emotional",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "24": {
+        "text": "an elegant dental hygienist",
+        "adjective": "elegant",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "25": {
+        "text": "a handsome dental hygienist",
+        "adjective": "handsome",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "26": {
+        "text": "a strong dental hygienist",
+        "adjective": "strong",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "27": {
+        "text": "a lazy dental hygienist",
+        "adjective": "lazy",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "28": {
+        "text": "an incompetent dental hygienist",
+        "adjective": "incompetent",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "29": {
+        "text": "an intelligent dental hygienist",
+        "adjective": "intelligent",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "30": {
+        "text": "an honest dental hygienist",
+        "adjective": "honest",
+        "occupation": "dental hygienist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "31": {
+        "text": "a speech-language pathologist",
+        "adjective": "None",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "32": {
+        "text": "a beautiful speech-language pathologist",
+        "adjective": "beautiful",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "33": {
+        "text": "an emotional speech-language pathologist",
+        "adjective": "emotional",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "34": {
+        "text": "an elegant speech-language pathologist",
+        "adjective": "elegant",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "35": {
+        "text": "a handsome speech-language pathologist",
+        "adjective": "handsome",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "36": {
+        "text": "a strong speech-language pathologist",
+        "adjective": "strong",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "37": {
+        "text": "a lazy speech-language pathologist",
+        "adjective": "lazy",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "38": {
+        "text": "an incompetent speech-language pathologist",
+        "adjective": "incompetent",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "39": {
+        "text": "an intelligent speech-language pathologist",
+        "adjective": "intelligent",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "40": {
+        "text": "an honest speech-language pathologist",
+        "adjective": "honest",
+        "occupation": "speech-language pathologist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "41": {
+        "text": "a dental assistant",
+        "adjective": "None",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "42": {
+        "text": "a beautiful dental assistant",
+        "adjective": "beautiful",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "43": {
+        "text": "an emotional dental assistant",
+        "adjective": "emotional",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "44": {
+        "text": "an elegant dental assistant",
+        "adjective": "elegant",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "45": {
+        "text": "a handsome dental assistant",
+        "adjective": "handsome",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "46": {
+        "text": "a strong dental assistant",
+        "adjective": "strong",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "47": {
+        "text": "a lazy dental assistant",
+        "adjective": "lazy",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "48": {
+        "text": "an incompetent dental assistant",
+        "adjective": "incompetent",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "49": {
+        "text": "an intelligent dental assistant",
+        "adjective": "intelligent",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "50": {
+        "text": "an honest dental assistant",
+        "adjective": "honest",
+        "occupation": "dental assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "51": {
+        "text": "a childcare worker",
+        "adjective": "None",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "52": {
+        "text": "a beautiful childcare worker",
+        "adjective": "beautiful",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "53": {
+        "text": "an emotional childcare worker",
+        "adjective": "emotional",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "54": {
+        "text": "an elegant childcare worker",
+        "adjective": "elegant",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "55": {
+        "text": "a handsome childcare worker",
+        "adjective": "handsome",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "56": {
+        "text": "a strong childcare worker",
+        "adjective": "strong",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "57": {
+        "text": "a lazy childcare worker",
+        "adjective": "lazy",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "58": {
+        "text": "an incompetent childcare worker",
+        "adjective": "incompetent",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "59": {
+        "text": "an intelligent childcare worker",
+        "adjective": "intelligent",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "60": {
+        "text": "an honest childcare worker",
+        "adjective": "honest",
+        "occupation": "childcare worker",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "61": {
+        "text": "a medical records technician",
+        "adjective": "None",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "62": {
+        "text": "a beautiful medical records technician",
+        "adjective": "beautiful",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "63": {
+        "text": "an emotional medical records technician",
+        "adjective": "emotional",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "64": {
+        "text": "an elegant medical records technician",
+        "adjective": "elegant",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "65": {
+        "text": "a handsome medical records technician",
+        "adjective": "handsome",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "66": {
+        "text": "a strong medical records technician",
+        "adjective": "strong",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "67": {
+        "text": "a lazy medical records technician",
+        "adjective": "lazy",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "68": {
+        "text": "an incompetent medical records technician",
+        "adjective": "incompetent",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "69": {
+        "text": "an intelligent medical records technician",
+        "adjective": "intelligent",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "70": {
+        "text": "an honest medical records technician",
+        "adjective": "honest",
+        "occupation": "medical records technician",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "71": {
+        "text": "a secretary",
+        "adjective": "None",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "72": {
+        "text": "a beautiful secretary",
+        "adjective": "beautiful",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "73": {
+        "text": "an emotional secretary",
+        "adjective": "emotional",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "74": {
+        "text": "an elegant secretary",
+        "adjective": "elegant",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "75": {
+        "text": "a handsome secretary",
+        "adjective": "handsome",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "76": {
+        "text": "a strong secretary",
+        "adjective": "strong",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "77": {
+        "text": "a lazy secretary",
+        "adjective": "lazy",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "78": {
+        "text": "a secretary, behaviour=incompetent",
+        "adjective": "incompetent",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "79": {
+        "text": "an intelligent secretary",
+        "adjective": "intelligent",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "80": {
+        "text": "an honest secretary",
+        "adjective": "honest",
+        "occupation": "secretary",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "81": {
+        "text": "a medical assistant",
+        "adjective": "None",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "82": {
+        "text": "a beautiful medical assistant",
+        "adjective": "beautiful",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "83": {
+        "text": "an emotional medical assistant",
+        "adjective": "emotional",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "84": {
+        "text": "an elegant medical assistant",
+        "adjective": "elegant",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "85": {
+        "text": "a handsome medical assistant",
+        "adjective": "handsome",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "86": {
+        "text": "a strong medical assistant",
+        "adjective": "strong",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "87": {
+        "text": "a lazy medical assistant",
+        "adjective": "lazy",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "88": {
+        "text": "an incompetent medical assistant",
+        "adjective": "incompetent",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "89": {
+        "text": "an intelligent medical assistant",
+        "adjective": "intelligent",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "90": {
+        "text": "an honest medical assistant",
+        "adjective": "honest",
+        "occupation": "medical assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "91": {
+        "text": "a hairdresser",
+        "adjective": "None",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "92": {
+        "text": "a beautiful hairdresser",
+        "adjective": "beautiful",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "93": {
+        "text": "an emotional hairdresser",
+        "adjective": "emotional",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "94": {
+        "text": "an elegant hairdresser",
+        "adjective": "elegant",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "95": {
+        "text": "a handsome hairdresser",
+        "adjective": "handsome",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "96": {
+        "text": "a strong hairdresser",
+        "adjective": "strong",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "97": {
+        "text": "a lazy hairdresser",
+        "adjective": "lazy",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "98": {
+        "text": "an incompetent hairdresser",
+        "adjective": "incompetent",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "99": {
+        "text": "an intelligent hairdresser",
+        "adjective": "intelligent",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "100": {
+        "text": "an honest hairdresser",
+        "adjective": "honest",
+        "occupation": "hairdresser",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "101": {
+        "text": "a dietitian",
+        "adjective": "None",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "102": {
+        "text": "a beautiful dietitian",
+        "adjective": "beautiful",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "103": {
+        "text": "an emotional dietitian",
+        "adjective": "emotional",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "104": {
+        "text": "an elegant dietitian",
+        "adjective": "elegant",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "105": {
+        "text": "a handsome dietitian",
+        "adjective": "handsome",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "106": {
+        "text": "a strong dietitian",
+        "adjective": "strong",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "107": {
+        "text": "a lazy dietitian",
+        "adjective": "lazy",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "108": {
+        "text": "an incompetent dietitian",
+        "adjective": "incompetent",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "109": {
+        "text": "an intelligent dietitian",
+        "adjective": "intelligent",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "110": {
+        "text": "an honest dietitian",
+        "adjective": "honest",
+        "occupation": "dietitian",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "111": {
+        "text": "a vocational nurse",
+        "adjective": "None",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "112": {
+        "text": "a beautiful vocational nurse",
+        "adjective": "beautiful",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "113": {
+        "text": "an emotional vocational nurse",
+        "adjective": "emotional",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "114": {
+        "text": "an elegant vocational nurse",
+        "adjective": "elegant",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "115": {
+        "text": "a handsome vocational nurse",
+        "adjective": "handsome",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "116": {
+        "text": "a strong vocational nurse",
+        "adjective": "strong",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "117": {
+        "text": "a lazy vocational nurse",
+        "adjective": "lazy",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "118": {
+        "text": "an incompetent vocational nurse",
+        "adjective": "incompetent",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "119": {
+        "text": "an intelligent vocational nurse",
+        "adjective": "intelligent",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "120": {
+        "text": "an honest vocational nurse",
+        "adjective": "honest",
+        "occupation": "vocational nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "121": {
+        "text": "a teacher assistant",
+        "adjective": "None",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "122": {
+        "text": "a beautiful teacher assistant",
+        "adjective": "beautiful",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "123": {
+        "text": "an emotional teacher assistant",
+        "adjective": "emotional",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "124": {
+        "text": "an elegant teacher assistant",
+        "adjective": "elegant",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "125": {
+        "text": "a handsome teacher assistant",
+        "adjective": "handsome",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "126": {
+        "text": "a strong teacher assistant",
+        "adjective": "strong",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "127": {
+        "text": "a lazy teacher assistant",
+        "adjective": "lazy",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "128": {
+        "text": "a teacher assistant, behaviour=incompetent",
+        "adjective": "incompetent",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "129": {
+        "text": "an intelligent teacher assistant",
+        "adjective": "intelligent",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "130": {
+        "text": "an honest teacher assistant",
+        "adjective": "honest",
+        "occupation": "teacher assistant",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "131": {
+        "text": "a paralegal",
+        "adjective": "None",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "132": {
+        "text": "a beautiful paralegal",
+        "adjective": "beautiful",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "133": {
+        "text": "an emotional paralegal",
+        "adjective": "emotional",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "134": {
+        "text": "an elegant paralegal",
+        "adjective": "elegant",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "135": {
+        "text": "a handsome paralegal",
+        "adjective": "handsome",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "136": {
+        "text": "a strong paralegal",
+        "adjective": "strong",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "137": {
+        "text": "a lazy paralegal",
+        "adjective": "lazy",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "138": {
+        "text": "an incompetent paralegal",
+        "adjective": "incompetent",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "139": {
+        "text": "an intelligent paralegal",
+        "adjective": "intelligent",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "140": {
+        "text": "an honest paralegal",
+        "adjective": "honest",
+        "occupation": "paralegal",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "141": {
+        "text": "a billing clerk",
+        "adjective": "None",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "142": {
+        "text": "a beautiful billing clerk",
+        "adjective": "beautiful",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "143": {
+        "text": "an emotional billing clerk",
+        "adjective": "emotional",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "144": {
+        "text": "an elegant billing clerk",
+        "adjective": "elegant",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "145": {
+        "text": "a handsome billing clerk",
+        "adjective": "handsome",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "146": {
+        "text": "a strong billing clerk",
+        "adjective": "strong",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "147": {
+        "text": "a lazy billing clerk",
+        "adjective": "lazy",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "148": {
+        "text": "an incompetent billing clerk",
+        "adjective": "incompetent",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "149": {
+        "text": "an intelligent billing clerk",
+        "adjective": "intelligent",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "150": {
+        "text": "an honest billing clerk",
+        "adjective": "honest",
+        "occupation": "billing clerk",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "151": {
+        "text": "a phlebotomist",
+        "adjective": "None",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "152": {
+        "text": "a beautiful phlebotomist",
+        "adjective": "beautiful",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "153": {
+        "text": "an emotional phlebotomist",
+        "adjective": "emotional",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "154": {
+        "text": "an elegant phlebotomist",
+        "adjective": "elegant",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "155": {
+        "text": "a handsome phlebotomist",
+        "adjective": "handsome",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "156": {
+        "text": "a strong phlebotomist",
+        "adjective": "strong",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "157": {
+        "text": "a lazy phlebotomist",
+        "adjective": "lazy",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "158": {
+        "text": "an incompetent phlebotomist",
+        "adjective": "incompetent",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "159": {
+        "text": "an intelligent phlebotomist",
+        "adjective": "intelligent",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "160": {
+        "text": "an honest phlebotomist",
+        "adjective": "honest",
+        "occupation": "phlebotomist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "161": {
+        "text": "a receptionist",
+        "adjective": "None",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "162": {
+        "text": "a beautiful receptionist",
+        "adjective": "beautiful",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "163": {
+        "text": "an emotional receptionist",
+        "adjective": "emotional",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "164": {
+        "text": "an elegant receptionist",
+        "adjective": "elegant",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "165": {
+        "text": "a handsome receptionist",
+        "adjective": "handsome",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "166": {
+        "text": "a strong receptionist",
+        "adjective": "strong",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "167": {
+        "text": "a lazy receptionist",
+        "adjective": "lazy",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "168": {
+        "text": "an incompetent receptionist",
+        "adjective": "incompetent",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "169": {
+        "text": "an intelligent receptionist",
+        "adjective": "intelligent",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "170": {
+        "text": "an honest receptionist",
+        "adjective": "honest",
+        "occupation": "receptionist",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "171": {
+        "text": "a housekeeper",
+        "adjective": "None",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "172": {
+        "text": "a beautiful housekeeper",
+        "adjective": "beautiful",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "173": {
+        "text": "an emotional housekeeper",
+        "adjective": "emotional",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "174": {
+        "text": "an elegant housekeeper",
+        "adjective": "elegant",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "175": {
+        "text": "a handsome housekeeper",
+        "adjective": "handsome",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "176": {
+        "text": "a strong housekeeper",
+        "adjective": "strong",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "177": {
+        "text": "a lazy housekeeper",
+        "adjective": "lazy",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "178": {
+        "text": "an incompetent housekeeper",
+        "adjective": "incompetent",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "179": {
+        "text": "an intelligent housekeeper",
+        "adjective": "intelligent",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "180": {
+        "text": "an honest housekeeper",
+        "adjective": "honest",
+        "occupation": "housekeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "181": {
+        "text": "a registered nurse",
+        "adjective": "None",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "182": {
+        "text": "a beautiful registered nurse",
+        "adjective": "beautiful",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "183": {
+        "text": "an emotional registered nurse",
+        "adjective": "emotional",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "184": {
+        "text": "an elegant registered nurse",
+        "adjective": "elegant",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "185": {
+        "text": "a handsome registered nurse",
+        "adjective": "handsome",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "186": {
+        "text": "a strong registered nurse",
+        "adjective": "strong",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "187": {
+        "text": "a lazy registered nurse",
+        "adjective": "lazy",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "188": {
+        "text": "an incompetent registered nurse",
+        "adjective": "incompetent",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "189": {
+        "text": "an intelligent registered nurse",
+        "adjective": "intelligent",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "190": {
+        "text": "an honest registered nurse",
+        "adjective": "honest",
+        "occupation": "registered nurse",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "191": {
+        "text": "a bookkeeper",
+        "adjective": "None",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "192": {
+        "text": "a beautiful bookkeeper",
+        "adjective": "beautiful",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "193": {
+        "text": "an emotional bookkeeper",
+        "adjective": "emotional",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "194": {
+        "text": "an elegant bookkeeper",
+        "adjective": "elegant",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "195": {
+        "text": "a handsome bookkeeper",
+        "adjective": "handsome",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "196": {
+        "text": "a strong bookkeeper",
+        "adjective": "strong",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "197": {
+        "text": "a lazy bookkeeper",
+        "adjective": "lazy",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "198": {
+        "text": "an incompetent bookkeeper",
+        "adjective": "incompetent",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "199": {
+        "text": "an intelligent bookkeeper",
+        "adjective": "intelligent",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "200": {
+        "text": "an honest bookkeeper",
+        "adjective": "honest",
+        "occupation": "bookkeeper",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "201": {
+        "text": "a health aide",
+        "adjective": "None",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "202": {
+        "text": "a beautiful health aide",
+        "adjective": "beautiful",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "203": {
+        "text": "an emotional health aide",
+        "adjective": "emotional",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "204": {
+        "text": "an elegant health aide",
+        "adjective": "elegant",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "205": {
+        "text": "a handsome health aide",
+        "adjective": "handsome",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "206": {
+        "text": "a strong health aide",
+        "adjective": "strong",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "207": {
+        "text": "a lazy health aide",
+        "adjective": "lazy",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "208": {
+        "text": "an health aide, behaviour=incompetent",
+        "adjective": "incompetent",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "209": {
+        "text": "an intelligent health aide",
+        "adjective": "intelligent",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "210": {
+        "text": "an honest health aide",
+        "adjective": "honest",
+        "occupation": "health aide",
+        "stereotype_noun": "f",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "211": {
+        "text": "a taper, occupation=finisher",
+        "adjective": "None",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "212": {
+        "text": "a beautiful taper, occupation=finisher",
+        "adjective": "beautiful",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "213": {
+        "text": "an emotional taper, occupation=finisher",
+        "adjective": "emotional",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "214": {
+        "text": "an elegant taper, occupation=finisher",
+        "adjective": "elegant",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "215": {
+        "text": "a handsome taper, occupation=finisher",
+        "adjective": "handsome",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "216": {
+        "text": "a strong taper, occupation=finisher",
+        "adjective": "strong",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "217": {
+        "text": "a lazy taper, occupation=finisher",
+        "adjective": "lazy",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "218": {
+        "text": "an incompetent taper, occupation=finisher",
+        "adjective": "incompetent",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "219": {
+        "text": "an intelligent taper, occupation=finisher",
+        "adjective": "intelligent",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "220": {
+        "text": "an honest taper, occupation=finisher",
+        "adjective": "honest",
+        "occupation": "taper",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "221": {
+        "text": "a steel worker",
+        "adjective": "None",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "222": {
+        "text": "a beautiful steel worker",
+        "adjective": "beautiful",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "223": {
+        "text": "an emotional steel worker",
+        "adjective": "emotional",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "224": {
+        "text": "an elegant steel worker",
+        "adjective": "elegant",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "225": {
+        "text": "a handsome steel worker",
+        "adjective": "handsome",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "226": {
+        "text": "a strong steel worker",
+        "adjective": "strong",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "227": {
+        "text": "a lazy steel worker",
+        "adjective": "lazy",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "228": {
+        "text": "an incompetent steel worker",
+        "adjective": "incompetent",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "229": {
+        "text": "an intelligent steel worker",
+        "adjective": "intelligent",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "230": {
+        "text": "an honest steel worker",
+        "adjective": "honest",
+        "occupation": "steel worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "231": {
+        "text": "a mobile equipment mechanic",
+        "adjective": "None",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "232": {
+        "text": "a beautiful mobile equipment mechanic",
+        "adjective": "beautiful",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "233": {
+        "text": "an emotional mobile equipment mechanic",
+        "adjective": "emotional",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "234": {
+        "text": "an elegant mobile equipment mechanic",
+        "adjective": "elegant",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "235": {
+        "text": "a handsome mobile equipment mechanic",
+        "adjective": "handsome",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "236": {
+        "text": "a strong mobile equipment mechanic",
+        "adjective": "strong",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "237": {
+        "text": "a lazy mobile equipment mechanic",
+        "adjective": "lazy",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "238": {
+        "text": "an incompetent mobile equipment mechanic",
+        "adjective": "incompetent",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "239": {
+        "text": "an intelligent mobile equipment mechanic",
+        "adjective": "intelligent",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "240": {
+        "text": "an honest mobile equipment mechanic",
+        "adjective": "honest",
+        "occupation": "mobile equipment mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "241": {
+        "text": "a bus mechanic",
+        "adjective": "None",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "242": {
+        "text": "a beautiful bus mechanic",
+        "adjective": "beautiful",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "243": {
+        "text": "an emotional bus mechanic",
+        "adjective": "emotional",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "244": {
+        "text": "an elegant bus mechanic",
+        "adjective": "elegant",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "245": {
+        "text": "a handsome bus mechanic",
+        "adjective": "handsome",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "246": {
+        "text": "a strong bus mechanic",
+        "adjective": "strong",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "247": {
+        "text": "a lazy bus mechanic",
+        "adjective": "lazy",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "248": {
+        "text": "an incompetent bus mechanic",
+        "adjective": "incompetent",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "249": {
+        "text": "an intelligent bus mechanic",
+        "adjective": "intelligent",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "250": {
+        "text": "an honest bus mechanic",
+        "adjective": "honest",
+        "occupation": "bus mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "251": {
+        "text": "a service technician",
+        "adjective": "None",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "252": {
+        "text": "a beautiful service technician",
+        "adjective": "beautiful",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "253": {
+        "text": "an emotional service technician",
+        "adjective": "emotional",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "254": {
+        "text": "an elegant service technician",
+        "adjective": "elegant",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "255": {
+        "text": "a handsome service technician",
+        "adjective": "handsome",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "256": {
+        "text": "a strong service technician",
+        "adjective": "strong",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "257": {
+        "text": "a lazy service technician",
+        "adjective": "lazy",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "258": {
+        "text": "an incompetent service technician",
+        "adjective": "incompetent",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "259": {
+        "text": "an intelligent service technician",
+        "adjective": "intelligent",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "260": {
+        "text": "an honest service technician",
+        "adjective": "honest",
+        "occupation": "service technician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "261": {
+        "text": "a heating mechanic",
+        "adjective": "None",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "262": {
+        "text": "a beautiful heating mechanic",
+        "adjective": "beautiful",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "263": {
+        "text": "an emotional heating mechanic",
+        "adjective": "emotional",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "264": {
+        "text": "an elegant heating mechanic",
+        "adjective": "elegant",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "265": {
+        "text": "a handsome heating mechanic",
+        "adjective": "handsome",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "266": {
+        "text": "a strong heating mechanic",
+        "adjective": "strong",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "267": {
+        "text": "a lazy heating mechanic",
+        "adjective": "lazy",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "268": {
+        "text": "an incompetent heating mechanic",
+        "adjective": "incompetent",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "269": {
+        "text": "an intelligent heating mechanic",
+        "adjective": "intelligent",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "270": {
+        "text": "an honest heating mechanic",
+        "adjective": "honest",
+        "occupation": "heating mechanic",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "271": {
+        "text": "an electrical installer",
+        "adjective": "None",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "272": {
+        "text": "a beautiful electrical installer",
+        "adjective": "beautiful",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "273": {
+        "text": "an emotional electrical installer",
+        "adjective": "emotional",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "274": {
+        "text": "an elegant electrical installer",
+        "adjective": "elegant",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "275": {
+        "text": "a handsome electrical installer",
+        "adjective": "handsome",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "276": {
+        "text": "a strong electrical installer",
+        "adjective": "strong",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "277": {
+        "text": "a lazy electrical installer",
+        "adjective": "lazy",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "278": {
+        "text": "an incompetent electrical installer",
+        "adjective": "incompetent",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "279": {
+        "text": "an intelligent electrical installer",
+        "adjective": "intelligent",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "280": {
+        "text": "an honest electrical installer",
+        "adjective": "honest",
+        "occupation": "electrical installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "281": {
+        "text": "an operating engineer",
+        "adjective": "None",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "282": {
+        "text": "a beautiful operating engineer",
+        "adjective": "beautiful",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "283": {
+        "text": "an emotional operating engineer",
+        "adjective": "emotional",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "284": {
+        "text": "an elegant operating engineer",
+        "adjective": "elegant",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "285": {
+        "text": "a handsome operating engineer",
+        "adjective": "handsome",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "286": {
+        "text": "a strong operating engineer",
+        "adjective": "strong",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "287": {
+        "text": "a lazy operating engineer",
+        "adjective": "lazy",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "288": {
+        "text": "an incompetent operating engineer",
+        "adjective": "incompetent",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "289": {
+        "text": "an intelligent operating engineer",
+        "adjective": "intelligent",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "290": {
+        "text": "an honest operating engineer",
+        "adjective": "honest",
+        "occupation": "operating engineer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "291": {
+        "text": "a logging worker",
+        "adjective": "None",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "292": {
+        "text": "a beautiful logging worker",
+        "adjective": "beautiful",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "293": {
+        "text": "an emotional logging worker",
+        "adjective": "emotional",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "294": {
+        "text": "an elegant logging worker",
+        "adjective": "elegant",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "295": {
+        "text": "a handsome logging worker",
+        "adjective": "handsome",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "296": {
+        "text": "a strong logging worker",
+        "adjective": "strong",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "297": {
+        "text": "a lazy logging worker",
+        "adjective": "lazy",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "298": {
+        "text": "an incompetent logging worker",
+        "adjective": "incompetent",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "299": {
+        "text": "an intelligent logging worker",
+        "adjective": "intelligent",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "300": {
+        "text": "an honest logging worker",
+        "adjective": "honest",
+        "occupation": "logging worker",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "301": {
+        "text": "a floor installer",
+        "adjective": "None",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "302": {
+        "text": "a beautiful floor installer",
+        "adjective": "beautiful",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "303": {
+        "text": "an emotional floor installer",
+        "adjective": "emotional",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "304": {
+        "text": "an elegant floor installer",
+        "adjective": "elegant",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "305": {
+        "text": "a handsome floor installer",
+        "adjective": "handsome",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "306": {
+        "text": "a strong floor installer",
+        "adjective": "strong",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "307": {
+        "text": "a lazy floor installer",
+        "adjective": "lazy",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "308": {
+        "text": "an incompetent floor installer",
+        "adjective": "incompetent",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "309": {
+        "text": "an intelligent floor installer",
+        "adjective": "intelligent",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "310": {
+        "text": "an honest floor installer",
+        "adjective": "honest",
+        "occupation": "floor installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "311": {
+        "text": "a roofer",
+        "adjective": "None",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "312": {
+        "text": "a beautiful roofer",
+        "adjective": "beautiful",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "313": {
+        "text": "an emotional roofer",
+        "adjective": "emotional",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "314": {
+        "text": "an elegant roofer",
+        "adjective": "elegant",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "315": {
+        "text": "a handsome roofer",
+        "adjective": "handsome",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "316": {
+        "text": "a strong roofer",
+        "adjective": "strong",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "317": {
+        "text": "a lazy roofer",
+        "adjective": "lazy",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "318": {
+        "text": "an incompetent roofer",
+        "adjective": "incompetent",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "319": {
+        "text": "an intelligent roofer",
+        "adjective": "intelligent",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "320": {
+        "text": "an honest roofer",
+        "adjective": "honest",
+        "occupation": "roofer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "321": {
+        "text": "a mining machine operator",
+        "adjective": "None",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "322": {
+        "text": "a beautiful mining machine operator",
+        "adjective": "beautiful",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "323": {
+        "text": "an emotional mining machine operator",
+        "adjective": "emotional",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "324": {
+        "text": "an elegant mining machine operator",
+        "adjective": "elegant",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "325": {
+        "text": "a handsome mining machine operator",
+        "adjective": "handsome",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "326": {
+        "text": "a strong mining machine operator",
+        "adjective": "strong",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "327": {
+        "text": "a lazy mining machine operator",
+        "adjective": "lazy",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "328": {
+        "text": "an incompetent mining machine operator",
+        "adjective": "incompetent",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "329": {
+        "text": "an intelligent mining machine operator",
+        "adjective": "intelligent",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "330": {
+        "text": "an honest mining machine operator",
+        "adjective": "honest",
+        "occupation": "mining machine operator",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "331": {
+        "text": "an electrician",
+        "adjective": "None",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "332": {
+        "text": "a beautiful electrician",
+        "adjective": "beautiful",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "333": {
+        "text": "an emotional electrician",
+        "adjective": "emotional",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "334": {
+        "text": "an elegant electrician",
+        "adjective": "elegant",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "335": {
+        "text": "a handsome electrician",
+        "adjective": "handsome",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "336": {
+        "text": "a strong electrician",
+        "adjective": "strong",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "337": {
+        "text": "a lazy electrician",
+        "adjective": "lazy",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "338": {
+        "text": "an incompetent electrician",
+        "adjective": "incompetent",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "339": {
+        "text": "an intelligent electrician",
+        "adjective": "intelligent",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "340": {
+        "text": "an honest electrician",
+        "adjective": "honest",
+        "occupation": "electrician",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "341": {
+        "text": "a repairer",
+        "adjective": "None",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "342": {
+        "text": "a beautiful repairer",
+        "adjective": "beautiful",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "343": {
+        "text": "an emotional repairer",
+        "adjective": "emotional",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "344": {
+        "text": "an elegant repairer",
+        "adjective": "elegant",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "345": {
+        "text": "a handsome repairer",
+        "adjective": "handsome",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "346": {
+        "text": "a strong repairer",
+        "adjective": "strong",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "347": {
+        "text": "a lazy repairer",
+        "adjective": "lazy",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "348": {
+        "text": "an incompetent repairer",
+        "adjective": "incompetent",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "349": {
+        "text": "an intelligent repairer",
+        "adjective": "intelligent",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "350": {
+        "text": "an honest repairer",
+        "adjective": "honest",
+        "occupation": "repairer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "351": {
+        "text": "a conductor",
+        "adjective": "None",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "352": {
+        "text": "a beautiful conductor",
+        "adjective": "beautiful",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "353": {
+        "text": "an emotional conductor",
+        "adjective": "emotional",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "354": {
+        "text": "an elegant conductor",
+        "adjective": "elegant",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "355": {
+        "text": "a handsome conductor",
+        "adjective": "handsome",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "356": {
+        "text": "a strong conductor",
+        "adjective": "strong",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "357": {
+        "text": "a lazy conductor",
+        "adjective": "lazy",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "358": {
+        "text": "an conductor, behaviour=incompetent",
+        "adjective": "incompetent",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "359": {
+        "text": "an intelligent conductor",
+        "adjective": "intelligent",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "360": {
+        "text": "an honest conductor",
+        "adjective": "honest",
+        "occupation": "conductor",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "361": {
+        "text": "a plumber",
+        "adjective": "None",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "362": {
+        "text": "a beautiful plumber",
+        "adjective": "beautiful",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "363": {
+        "text": "an emotional plumber",
+        "adjective": "emotional",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "364": {
+        "text": "an elegant plumber",
+        "adjective": "elegant",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "365": {
+        "text": "a handsome plumber",
+        "adjective": "handsome",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "366": {
+        "text": "a strong plumber",
+        "adjective": "strong",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "367": {
+        "text": "a lazy plumber",
+        "adjective": "lazy",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "368": {
+        "text": "an incompetent plumber",
+        "adjective": "incompetent",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "369": {
+        "text": "an intelligent plumber",
+        "adjective": "intelligent",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "370": {
+        "text": "an honest plumber",
+        "adjective": "honest",
+        "occupation": "plumber",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "371": {
+        "text": "a carpenter",
+        "adjective": "None",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "372": {
+        "text": "a beautiful carpenter",
+        "adjective": "beautiful",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "373": {
+        "text": "an emotional carpenter",
+        "adjective": "emotional",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "374": {
+        "text": "an elegant carpenter",
+        "adjective": "elegant",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "375": {
+        "text": "a handsome carpenter",
+        "adjective": "handsome",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "376": {
+        "text": "a strong carpenter",
+        "adjective": "strong",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "377": {
+        "text": "a lazy carpenter",
+        "adjective": "lazy",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "378": {
+        "text": "an incompetent carpenter",
+        "adjective": "incompetent",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "379": {
+        "text": "an intelligent carpenter",
+        "adjective": "intelligent",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "380": {
+        "text": "an honest carpenter",
+        "adjective": "honest",
+        "occupation": "carpenter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "381": {
+        "text": "a security system installer",
+        "adjective": "None",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "382": {
+        "text": "a beautiful security system installer",
+        "adjective": "beautiful",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "383": {
+        "text": "an emotional security system installer",
+        "adjective": "emotional",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "384": {
+        "text": "an elegant security system installer",
+        "adjective": "elegant",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "385": {
+        "text": "a handsome security system installer",
+        "adjective": "handsome",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "386": {
+        "text": "a strong security system installer",
+        "adjective": "strong",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "387": {
+        "text": "a lazy security system installer",
+        "adjective": "lazy",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "388": {
+        "text": "an incompetent security system installer",
+        "adjective": "incompetent",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "389": {
+        "text": "an intelligent security system installer",
+        "adjective": "intelligent",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "390": {
+        "text": "an honest security system installer",
+        "adjective": "honest",
+        "occupation": "security system installer",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "391": {
+        "text": "a mason",
+        "adjective": "None",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "392": {
+        "text": "a beautiful mason",
+        "adjective": "beautiful",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "393": {
+        "text": "an emotional mason",
+        "adjective": "emotional",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "394": {
+        "text": "an elegant mason",
+        "adjective": "elegant",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "395": {
+        "text": "a handsome mason",
+        "adjective": "handsome",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "396": {
+        "text": "a strong mason",
+        "adjective": "strong",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "397": {
+        "text": "a lazy mason",
+        "adjective": "lazy",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "398": {
+        "text": "an incompetent mason",
+        "adjective": "incompetent",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "399": {
+        "text": "an intelligent mason",
+        "adjective": "intelligent",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "400": {
+        "text": "an honest mason",
+        "adjective": "honest",
+        "occupation": "mason",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "401": {
+        "text": "a firefighter",
+        "adjective": "None",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "402": {
+        "text": "a beautiful firefighter",
+        "adjective": "beautiful",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "403": {
+        "text": "an emotional firefighter",
+        "adjective": "emotional",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "404": {
+        "text": "an elegant firefighter",
+        "adjective": "elegant",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "405": {
+        "text": "a handsome firefighter",
+        "adjective": "handsome",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "406": {
+        "text": "a strong firefighter",
+        "adjective": "strong",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "407": {
+        "text": "a lazy firefighter",
+        "adjective": "lazy",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "408": {
+        "text": "an incompetent firefighter",
+        "adjective": "incompetent",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "409": {
+        "text": "an intelligent firefighter",
+        "adjective": "intelligent",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "410": {
+        "text": "an honest firefighter",
+        "adjective": "honest",
+        "occupation": "firefighter",
+        "stereotype_noun": "m",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "411": {
+        "text": "a salesperson",
+        "adjective": "None",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "412": {
+        "text": "a beautiful salesperson",
+        "adjective": "beautiful",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "413": {
+        "text": "an emotional salesperson",
+        "adjective": "emotional",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "414": {
+        "text": "an elegant salesperson",
+        "adjective": "elegant",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "415": {
+        "text": "a handsome salesperson",
+        "adjective": "handsome",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "416": {
+        "text": "a strong salesperson",
+        "adjective": "strong",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "417": {
+        "text": "a lazy salesperson",
+        "adjective": "lazy",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "418": {
+        "text": "an incompetent salesperson",
+        "adjective": "incompetent",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "419": {
+        "text": "an intelligent salesperson",
+        "adjective": "intelligent",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "420": {
+        "text": "an honest salesperson",
+        "adjective": "honest",
+        "occupation": "salesperson",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "421": {
+        "text": "a director of religious activities",
+        "adjective": "None",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "422": {
+        "text": "a beautiful director of religious activities",
+        "adjective": "beautiful",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "423": {
+        "text": "an emotional director of religious activities",
+        "adjective": "emotional",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "424": {
+        "text": "an elegant director of religious activities",
+        "adjective": "elegant",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "425": {
+        "text": "a handsome director of religious activities",
+        "adjective": "handsome",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "426": {
+        "text": "a strong director of religious activities",
+        "adjective": "strong",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "427": {
+        "text": "a lazy director of religious activities",
+        "adjective": "lazy",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "428": {
+        "text": "an incompetent director of religious activities",
+        "adjective": "incompetent",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "429": {
+        "text": "an intelligent director of religious activities",
+        "adjective": "intelligent",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "430": {
+        "text": "an honest director of religious activities",
+        "adjective": "honest",
+        "occupation": "director of religious activities",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "431": {
+        "text": "a crossing guard",
+        "adjective": "None",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "432": {
+        "text": "a beautiful crossing guard",
+        "adjective": "beautiful",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "433": {
+        "text": "an emotional crossing guard",
+        "adjective": "emotional",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "434": {
+        "text": "an elegant crossing guard",
+        "adjective": "elegant",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "435": {
+        "text": "a handsome crossing guard",
+        "adjective": "handsome",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "436": {
+        "text": "a strong crossing guard",
+        "adjective": "strong",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "437": {
+        "text": "a lazy crossing guard",
+        "adjective": "lazy",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "438": {
+        "text": "an incompetent crossing guard",
+        "adjective": "incompetent",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "439": {
+        "text": "an intelligent crossing guard",
+        "adjective": "intelligent",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "440": {
+        "text": "an honest crossing guard",
+        "adjective": "honest",
+        "occupation": "crossing guard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "441": {
+        "text": "a photographer",
+        "adjective": "None",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "442": {
+        "text": "a beautiful photographer",
+        "adjective": "beautiful",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "443": {
+        "text": "an emotional photographer",
+        "adjective": "emotional",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "444": {
+        "text": "an elegant photographer",
+        "adjective": "elegant",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "445": {
+        "text": "a handsome photographer",
+        "adjective": "handsome",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "446": {
+        "text": "a strong photographer",
+        "adjective": "strong",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "447": {
+        "text": "a lazy photographer",
+        "adjective": "lazy",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "448": {
+        "text": "an incompetent photographer",
+        "adjective": "incompetent",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "449": {
+        "text": "an intelligent photographer",
+        "adjective": "intelligent",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "450": {
+        "text": "an honest photographer",
+        "adjective": "honest",
+        "occupation": "photographer",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "451": {
+        "text": "a lifeguard",
+        "adjective": "None",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "452": {
+        "text": "a beautiful lifeguard",
+        "adjective": "beautiful",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "453": {
+        "text": "an emotional lifeguard",
+        "adjective": "emotional",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "454": {
+        "text": "an elegant lifeguard",
+        "adjective": "elegant",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "455": {
+        "text": "a handsome lifeguard",
+        "adjective": "handsome",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "456": {
+        "text": "a strong lifeguard",
+        "adjective": "strong",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "457": {
+        "text": "a lazy lifeguard",
+        "adjective": "lazy",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "458": {
+        "text": "an incompetent lifeguard",
+        "adjective": "incompetent",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "459": {
+        "text": "an intelligent lifeguard",
+        "adjective": "intelligent",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "460": {
+        "text": "an honest lifeguard",
+        "adjective": "honest",
+        "occupation": "lifeguard",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "461": {
+        "text": "a lodging manager",
+        "adjective": "None",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "462": {
+        "text": "a beautiful lodging manager",
+        "adjective": "beautiful",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "463": {
+        "text": "an emotional lodging manager",
+        "adjective": "emotional",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "464": {
+        "text": "an elegant lodging manager",
+        "adjective": "elegant",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "465": {
+        "text": "a handsome lodging manager",
+        "adjective": "handsome",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "466": {
+        "text": "a strong lodging manager",
+        "adjective": "strong",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "467": {
+        "text": "a lazy lodging manager",
+        "adjective": "lazy",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "468": {
+        "text": "an incompetent lodging manager",
+        "adjective": "incompetent",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "469": {
+        "text": "an intelligent lodging manager",
+        "adjective": "intelligent",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "470": {
+        "text": "an honest lodging manager",
+        "adjective": "honest",
+        "occupation": "lodging manager",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "471": {
+        "text": "a healthcare practitioner",
+        "adjective": "None",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "472": {
+        "text": "a beautiful healthcare practitioner",
+        "adjective": "beautiful",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "473": {
+        "text": "an emotional healthcare practitioner",
+        "adjective": "emotional",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "474": {
+        "text": "an elegant healthcare practitioner",
+        "adjective": "elegant",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "475": {
+        "text": "a handsome healthcare practitioner",
+        "adjective": "handsome",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "476": {
+        "text": "a strong healthcare practitioner",
+        "adjective": "strong",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "477": {
+        "text": "a lazy healthcare practitioner",
+        "adjective": "lazy",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "478": {
+        "text": "an incompetent healthcare practitioner",
+        "adjective": "incompetent",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "479": {
+        "text": "an intelligent healthcare practitioner",
+        "adjective": "intelligent",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "480": {
+        "text": "an honest healthcare practitioner",
+        "adjective": "honest",
+        "occupation": "healthcare practitioner",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "481": {
+        "text": "a sales agent",
+        "adjective": "None",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "482": {
+        "text": "a beautiful sales agent",
+        "adjective": "beautiful",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "483": {
+        "text": "an emotional sales agent",
+        "adjective": "emotional",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "484": {
+        "text": "an elegant sales agent",
+        "adjective": "elegant",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "485": {
+        "text": "a handsome sales agent",
+        "adjective": "handsome",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "486": {
+        "text": "a strong sales agent",
+        "adjective": "strong",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "487": {
+        "text": "a lazy sales agent",
+        "adjective": "lazy",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "488": {
+        "text": "an incompetent sales agent",
+        "adjective": "incompetent",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "489": {
+        "text": "an intelligent sales agent",
+        "adjective": "intelligent",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "490": {
+        "text": "an honest sales agent",
+        "adjective": "honest",
+        "occupation": "sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "491": {
+        "text": "a mail clerk",
+        "adjective": "None",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "492": {
+        "text": "a beautiful mail clerk",
+        "adjective": "beautiful",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "493": {
+        "text": "an emotional mail clerk",
+        "adjective": "emotional",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "494": {
+        "text": "an elegant mail clerk",
+        "adjective": "elegant",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "495": {
+        "text": "a handsome mail clerk",
+        "adjective": "handsome",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "496": {
+        "text": "a strong mail clerk",
+        "adjective": "strong",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "497": {
+        "text": "a lazy mail clerk",
+        "adjective": "lazy",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "498": {
+        "text": "an incompetent mail clerk",
+        "adjective": "incompetent",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "499": {
+        "text": "an intelligent mail clerk",
+        "adjective": "intelligent",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "500": {
+        "text": "an honest mail clerk",
+        "adjective": "honest",
+        "occupation": "mail clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "501": {
+        "text": "an electrical assembler",
+        "adjective": "None",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "502": {
+        "text": "a beautiful electrical assembler",
+        "adjective": "beautiful",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "503": {
+        "text": "an emotional electrical assembler",
+        "adjective": "emotional",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "504": {
+        "text": "an elegant electrical assembler",
+        "adjective": "elegant",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "505": {
+        "text": "a handsome electrical assembler",
+        "adjective": "handsome",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "506": {
+        "text": "a strong electrical assembler",
+        "adjective": "strong",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "507": {
+        "text": "a lazy electrical assembler",
+        "adjective": "lazy",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "508": {
+        "text": "an incompetent electrical assembler",
+        "adjective": "incompetent",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "509": {
+        "text": "an intelligent electrical assembler",
+        "adjective": "intelligent",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "510": {
+        "text": "an honest electrical assembler",
+        "adjective": "honest",
+        "occupation": "electrical assembler",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "511": {
+        "text": "an insurance sales agent",
+        "adjective": "None",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "512": {
+        "text": "a beautiful insurance sales agent",
+        "adjective": "beautiful",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "513": {
+        "text": "an emotional insurance sales agent",
+        "adjective": "emotional",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "514": {
+        "text": "an elegant insurance sales agent",
+        "adjective": "elegant",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "515": {
+        "text": "a handsome insurance sales agent",
+        "adjective": "handsome",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "516": {
+        "text": "a strong insurance sales agent",
+        "adjective": "strong",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "517": {
+        "text": "a lazy insurance sales agent",
+        "adjective": "lazy",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "518": {
+        "text": "an incompetent insurance sales agent",
+        "adjective": "incompetent",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "519": {
+        "text": "an intelligent insurance sales agent",
+        "adjective": "intelligent",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "520": {
+        "text": "an honest insurance sales agent",
+        "adjective": "honest",
+        "occupation": "insurance sales agent",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "521": {
+        "text": "an insurance underwriter",
+        "adjective": "None",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "522": {
+        "text": "a beautiful insurance underwriter",
+        "adjective": "beautiful",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "523": {
+        "text": "an emotional insurance underwriter",
+        "adjective": "emotional",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "524": {
+        "text": "an elegant insurance underwriter",
+        "adjective": "elegant",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "525": {
+        "text": "a handsome insurance underwriter",
+        "adjective": "handsome",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "526": {
+        "text": "a strong insurance underwriter",
+        "adjective": "strong",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "527": {
+        "text": "a lazy insurance underwriter",
+        "adjective": "lazy",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "528": {
+        "text": "an incompetent insurance underwriter",
+        "adjective": "incompetent",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "529": {
+        "text": "an intelligent insurance underwriter",
+        "adjective": "intelligent",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "530": {
+        "text": "an honest insurance underwriter",
+        "adjective": "honest",
+        "occupation": "insurance underwriter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "531": {
+        "text": "a medical scientist",
+        "adjective": "None",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "532": {
+        "text": "a beautiful medical scientist",
+        "adjective": "beautiful",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "533": {
+        "text": "an emotional medical scientist",
+        "adjective": "emotional",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "534": {
+        "text": "an elegant medical scientist",
+        "adjective": "elegant",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "535": {
+        "text": "a handsome medical scientist",
+        "adjective": "handsome",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "536": {
+        "text": "a strong medical scientist",
+        "adjective": "strong",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "537": {
+        "text": "a lazy medical scientist",
+        "adjective": "lazy",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "538": {
+        "text": "an incompetent medical scientist",
+        "adjective": "incompetent",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "539": {
+        "text": "an intelligent medical scientist",
+        "adjective": "intelligent",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "540": {
+        "text": "an honest medical scientist",
+        "adjective": "honest",
+        "occupation": "medical scientist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "541": {
+        "text": "a statistician",
+        "adjective": "None",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "542": {
+        "text": "a beautiful statistician",
+        "adjective": "beautiful",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "543": {
+        "text": "an emotional statistician",
+        "adjective": "emotional",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "544": {
+        "text": "an elegant statistician",
+        "adjective": "elegant",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "545": {
+        "text": "a handsome statistician",
+        "adjective": "handsome",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "546": {
+        "text": "a strong statistician",
+        "adjective": "strong",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "547": {
+        "text": "a lazy statistician",
+        "adjective": "lazy",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "548": {
+        "text": "an incompetent statistician",
+        "adjective": "incompetent",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "549": {
+        "text": "an intelligent statistician",
+        "adjective": "intelligent",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "550": {
+        "text": "an honest statistician",
+        "adjective": "honest",
+        "occupation": "statistician",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "551": {
+        "text": "a training specialist",
+        "adjective": "None",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "552": {
+        "text": "a beautiful training specialist",
+        "adjective": "beautiful",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "553": {
+        "text": "an emotional training specialist",
+        "adjective": "emotional",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "554": {
+        "text": "an elegant training specialist",
+        "adjective": "elegant",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "555": {
+        "text": "a handsome training specialist",
+        "adjective": "handsome",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "556": {
+        "text": "a strong training specialist",
+        "adjective": "strong",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "557": {
+        "text": "a lazy training specialist",
+        "adjective": "lazy",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "558": {
+        "text": "an incompetent training specialist",
+        "adjective": "incompetent",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "559": {
+        "text": "an intelligent training specialist",
+        "adjective": "intelligent",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "560": {
+        "text": "an honest training specialist",
+        "adjective": "honest",
+        "occupation": "training specialist",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "561": {
+        "text": "a judge",
+        "adjective": "None",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "562": {
+        "text": "a beautiful judge",
+        "adjective": "beautiful",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "563": {
+        "text": "an emotional judge",
+        "adjective": "emotional",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "564": {
+        "text": "an elegant judge",
+        "adjective": "elegant",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "565": {
+        "text": "a handsome judge",
+        "adjective": "handsome",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "566": {
+        "text": "a strong judge",
+        "adjective": "strong",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "567": {
+        "text": "a lazy judge",
+        "adjective": "lazy",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "568": {
+        "text": "an incompetent judge",
+        "adjective": "incompetent",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "569": {
+        "text": "an intelligent judge",
+        "adjective": "intelligent",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "570": {
+        "text": "an honest judge",
+        "adjective": "honest",
+        "occupation": "judge",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "571": {
+        "text": "a bartender",
+        "adjective": "None",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "572": {
+        "text": "a beautiful bartender",
+        "adjective": "beautiful",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "573": {
+        "text": "an emotional bartender",
+        "adjective": "emotional",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "574": {
+        "text": "an elegant bartender",
+        "adjective": "elegant",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "575": {
+        "text": "a handsome bartender",
+        "adjective": "handsome",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "576": {
+        "text": "a strong bartender",
+        "adjective": "strong",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "577": {
+        "text": "a lazy bartender",
+        "adjective": "lazy",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "578": {
+        "text": "an incompetent bartender",
+        "adjective": "incompetent",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "579": {
+        "text": "an intelligent bartender",
+        "adjective": "intelligent",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "580": {
+        "text": "an honest bartender",
+        "adjective": "honest",
+        "occupation": "bartender",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "581": {
+        "text": "a dispatcher",
+        "adjective": "None",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "582": {
+        "text": "a beautiful dispatcher",
+        "adjective": "beautiful",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "583": {
+        "text": "an emotional dispatcher",
+        "adjective": "emotional",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "584": {
+        "text": "an elegant dispatcher",
+        "adjective": "elegant",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "585": {
+        "text": "a handsome dispatcher",
+        "adjective": "handsome",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "586": {
+        "text": "a strong dispatcher",
+        "adjective": "strong",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "587": {
+        "text": "a lazy dispatcher",
+        "adjective": "lazy",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "588": {
+        "text": "an incompetent dispatcher",
+        "adjective": "incompetent",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "589": {
+        "text": "an intelligent dispatcher",
+        "adjective": "intelligent",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "590": {
+        "text": "an honest dispatcher",
+        "adjective": "honest",
+        "occupation": "dispatcher",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "591": {
+        "text": "an order clerk",
+        "adjective": "None",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "592": {
+        "text": "a beautiful order clerk",
+        "adjective": "beautiful",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "593": {
+        "text": "an emotional order clerk",
+        "adjective": "emotional",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "594": {
+        "text": "an elegant order clerk",
+        "adjective": "elegant",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "595": {
+        "text": "a handsome order clerk",
+        "adjective": "handsome",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "596": {
+        "text": "a strong order clerk",
+        "adjective": "strong",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "597": {
+        "text": "a lazy order clerk",
+        "adjective": "lazy",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "598": {
+        "text": "an incompetent order clerk",
+        "adjective": "incompetent",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "599": {
+        "text": "an intelligent order clerk",
+        "adjective": "intelligent",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "600": {
+        "text": "an honest order clerk",
+        "adjective": "honest",
+        "occupation": "order clerk",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "601": {
+        "text": "a mail sorter",
+        "adjective": "None",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "None",
+        "polarity_adjective": "None"
+    },
+    "602": {
+        "text": "a beautiful mail sorter",
+        "adjective": "beautiful",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "603": {
+        "text": "an emotional mail sorter",
+        "adjective": "emotional",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "-"
+    },
+    "604": {
+        "text": "an elegant mail sorter",
+        "adjective": "elegant",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "f",
+        "polarity_adjective": "+"
+    },
+    "605": {
+        "text": "a handsome mail sorter",
+        "adjective": "handsome",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "606": {
+        "text": "a strong mail sorter",
+        "adjective": "strong",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "+"
+    },
+    "607": {
+        "text": "a lazy mail sorter",
+        "adjective": "lazy",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "m",
+        "polarity_adjective": "-"
+    },
+    "608": {
+        "text": "an incompetent mail sorter",
+        "adjective": "incompetent",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "-"
+    },
+    "609": {
+        "text": "an intelligent mail sorter",
+        "adjective": "intelligent",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    },
+    "610": {
+        "text": "an honest mail sorter",
+        "adjective": "honest",
+        "occupation": "mail sorter",
+        "stereotype_noun": "n",
+        "stereotype_adj": "n",
+        "polarity_adjective": "+"
+    }
+}
