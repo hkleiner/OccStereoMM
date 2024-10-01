@@ -34,21 +34,27 @@ Our approach consists of three phases:
 ### Test Set Creation:
 We compiled a set of 60 occupations based on data from the U.S. Bureau of Labor Statistics (2020).
 Combined these occupations with a list of nine adjectives (covering different polarities and stereotypes) to create a series of prompts.
+
 ![Prompt Creation](img/Prompt_Creation.png)
+
 These prompts were used to generate images via the Bing Image Creator (Microsoft Designer 2024).
+
 ![Functional Testset Creation](img/Functional_Testset.png)
 
 ### Image Annotation:
 We analyzed and annotated the generated images based on the physical traits and gender of the individuals depicted.
+
 ![Annotation Pipeline](img/Annotation_Process_Labels.png)
 
 ### Evaluation:
 We conducted an internal analysis of the distributions and patterns in the generated images.
 We compared the findings with real-world distribution from the U.S. Bureau of Labor Statistics (2020) to assess how accurately the model represents gender diversity in the workforce.
+
 ![Results](img/Results.png)
 
 ### Outlook: Gender-sensitive Prompting
 As an outlook, we introduce a gender-sensitive 580 prompting baseline approach for further investigation on Bing Image Creator. Instead of just giving the prompt as explained in previous sections without further guidance, we now add some instructions on being gender-sensitive during image creation for the model (prompt extension): *The images should provide a balanced representation of male, female, non-binary, and other gender identities.* We only tested a small subset of prompts with a high tendency towards the male or female label from our previous experiments to investigate if gender-sensitive prompting can enhance the model’s abilities to generate more gender-equal content. Additionally, we also looked at our baseline Prompt 1 - "a person".
+
 ![Gender-sensitive Prompting](img/Iteration1-2_gender_sensitive_person.png)
 
 ## Authors
