@@ -5,7 +5,7 @@ This repository contains the research and analysis code for the paper "Investiga
 <div id="top" align="center">
   
 [![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](#licenseandcitation)
-[![arXiv](https://img.shields.io/badge/arXiv-2312.14150-b31b1b.svg)](coming soon)
+[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](link)
 [![LIMO 2024](https://img.shields.io/badge/LIMO_2024-purple)]([https://opendrivelab.com/DriveLM/](https://sites.google.com/view/limo-2024/LIMO24))
 
 </div>
