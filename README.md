@@ -32,14 +32,18 @@ Our approach consists of three phases:
 ### Test Set Creation:
 We compiled a set of 60 occupations based on data from the U.S. Bureau of Labor Statistics (2020).
 Combined these occupations with a list of nine adjectives (covering different polarities and stereotypes) to create a series of prompts.
+[![Prompt Creation](img/Prompt_Creation.png)
 These prompts were used to generate images via the Bing Image Creator (Microsoft Designer 2024).
+[![Functional Testset Creation](img/Functional_Testset.png)
 
 ### Image Annotation:
 We analyzed and annotated the generated images based on the physical traits and gender of the individuals depicted.
+[![Annotation Pipeline](img/Annotation_Process_Labels.png)
 
 ### Evaluation:
 We conducted an internal analysis of the distributions and patterns in the generated images.
 We compared the findings with real-world distribution from the U.S. Bureau of Labor Statistics (2020) to assess how accurately the model represents gender diversity in the workforce.
+[![Results](img/Results.png)
 
 ## Contributors
 Lena Altinger, Hermine Kleiner, Sebastian Loftus, Sarah Anna Uffelmann @LMU Munich
