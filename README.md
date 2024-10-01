@@ -48,9 +48,10 @@ We compared the findings with real-world distribution from the U.S. Bureau of La
 ![Results](img/Results.png)
 
 ### Outlook: Gender-sensitive Prompting
+As an outlook, we introduce a gender-sensitive 580 prompting baseline approach for further investigation on Bing Image Creator. Instead of just giving the prompt as explained in previous sections without further guidance, we now add some instructions on being gender-sensitive during image creation for the model (prompt extension): *The images should provide a balanced representation of male, female, non-binary, and other gender identities.* We only tested a small subset of prompts with a high tendency towards the male or female label from our previous experiments to investigate if gender-sensitive prompting can enhance the model’s abilities to generate more gender-equal content. Additionally, we also looked at our baseline Prompt 1 - "a person".
 ![Gender-sensitive Prompting](img/Iteration1-2_gender_sensitive_person.png)
 
-## Contributors
+## Authors
 Lena Altinger, Hermine Kleiner, Sebastian Loftus, Sarah Anna Uffelmann @LMU Munich
 
 **Contact**:  {l.altinger, h.kleiner, s.loftus, s.uffelmann}@campus.lmu.de
