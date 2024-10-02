@@ -58,7 +58,7 @@ As an outlook, we introduce a gender-sensitive 580 prompting baseline approach f
 ![Gender-sensitive Prompting](img/Iteration1-2_gender_sensitive_person.png)
 
 ## Ethics Statement
-The generated images in this study are annotated based on perceived male and female traits. This does not imply that we recognise only these two genders. Images are labelled as neutral if they do not display discernible gender traits or exhibit traits associated with multiple genders within a single individual or across multiple individuals. Our 747 labelling approach is intended only to facilitate research and should not be interpreted as reinforcing binary gender norms. 
+The generated images in this study are annotated based on perceived male and female traits. This does not imply that we recognise only these two genders. Images are labelled as neutral if they do not display discernible gender traits or exhibit traits associated with multiple genders within a single individual or across multiple individuals. Our labelling approach is intended only to facilitate research and should not be interpreted as reinforcing binary gender norms. 
 
 ## Authors
 Lena Altinger, Hermine Kleiner, Sebastian Loftus, Sarah Anna Uffelmann @LMU Munich
