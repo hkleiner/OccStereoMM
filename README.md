@@ -4,7 +4,7 @@ This repository contains the research and analysis code for the paper "Investiga
 
 <div id="top" align="center">
   
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-GPLv3-blue.svg)](#licenseandcitation)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY_NC_SA_4.0-blue.svg)](#licenseandcitation)
 [![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)](link)
 [![LIMO 2024](https://img.shields.io/badge/LIMO_2024-purple)](https://sites.google.com/view/limo-2024/LIMO24)
 
