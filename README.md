@@ -64,3 +64,6 @@ The generated images in this study are annotated based on perceived male and fem
 Lena Altinger, Hermine Kleiner, Sebastian Loftus, Sarah Anna Uffelmann @LMU Munich
 
 **Contact**:  {l.altinger, h.kleiner, s.loftus, s.uffelmann}@campus.lmu.de
+
+## License
+This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
